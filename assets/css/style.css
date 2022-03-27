@@ -2,7 +2,7 @@
 
 :root {
   --dark-color : #0d0d0d;
-  --bg-color : #73ef88;
+  --bg-color : #ffe600;
   --light-color: #fef9f8;
 }
 
@@ -570,7 +570,7 @@ p {
 .light-rounded-buttons .main-btn {
   border-radius: 5px; }
 .light-rounded-buttons .light-rounded-one {
-  border-color: #0067f4; }
+  border-color: #080808; }
   .light-rounded-buttons .light-rounded-one:hover {
     color: #0067f4;
     background-color: rgba(0, 103, 244, 0.4); }
